@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/oMsxZEvz9a708d49b6UdZK1KAo5.jpg",
+      "genre_ids": [28, 878],
+      "id": 603,
+      "original_language": "en",
+      "original_title": "The Matrix",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "popularity": 85.033,
+      "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "release_date": "1999-03-30",
+      "title": "The Matrix",
+      "video": false,
+      "vote_average": 8.204,
+      "vote_count": 23432
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k0Cuybu9ECuc47ODlHcIP8TJCZi.jpg",
+      "genre_ids": [878, 28, 12],
+      "id": 624860,
+      "original_language": "en",
+      "original_title": "The Matrix Resurrections",
+      "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+      "popularity": 76.937,
+      "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "release_date": "2021-12-16",
+      "title": "The Matrix Resurrections",
+      "video": false,
+      "vote_average": 6.515,
+      "vote_count": 4847
+    }
+  ]
+}
