@@ -25,7 +25,7 @@
           <div class="right">
             <h1 id="movie-title">{{ movie?.original_title }}</h1>
             <div class="author">
-              <h2 id="director-name">{{ movie.creditsData?.director.name }}</h2>
+              <h2 id="director-name">{{ movie.credits?.director.name }}</h2>
             </div>
             <div class="separator"></div>
             <div class="overview">
