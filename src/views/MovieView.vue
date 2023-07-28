@@ -55,7 +55,7 @@
         </div>
         <div class="col-12">
           <Carousel
-            :value="movie?.creditsData?.crew"
+            :value="movie.credits?.crew"
             :numVisible="getCarouselVisibleItems()"
             :numScroll="getCarouselScrollItems()"
             :responsiveOptions="responsiveOptions"
